@@ -1,0 +1,6 @@
+#import os
+- descobrir nome do sistema operacional - os.name
+-listar arquivos no diretorio atual - os.listdir()
+-saber qual o diretorio atual - os.getcwd()
+-saber qual o separado dinamico - os.sep
+-montar um caminho para arquivo de forma dinamica - os.path.join(os.getcwd() + os.sep + 'passos.txt')
